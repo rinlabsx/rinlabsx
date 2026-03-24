@@ -11,6 +11,9 @@ I build web applications, dashboards, and internal tools — using Claude and ot
 |---|---|
 | [ai-bi-dashboard](https://github.com/rinlabsx/ai-bi-dashboard) | AI-powered business intelligence dashboard — paste any data, get instant charts and executive summary via Claude API |
 | [nucleus-crm](https://github.com/rinlabsx/nucleus-crm) | Studio CRM dashboard for managing clients, projects, invoices, and activity |
+| [pace-landing](https://github.com/rinlabsx/pace-landing) | SaaS landing page for Pace, a productivity and workflow tool for small teams |
+| [maison-elde-checkout](https://github.com/rinlabsx/maison-elde-checkout) | Premium fashion checkout and order confirmation flow for Maison Elde |
+| [clausify](https://github.com/rinlabsx/clausify) | AI contract reviewer — paste text or upload a PDF to get risk analysis, key terms, and missing clauses via Claude API |
 
 ---
 
