@@ -5,7 +5,7 @@ I build web applications, dashboards, and internal tools — using Claude and ot
 
 ---
 
-## Currently building
+## Selected work
 
 | Project | Description |
 |---|---|
