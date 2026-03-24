@@ -1,6 +1,7 @@
 # Nova R.
 
-AI-Augmented Full-Stack Developer based in Germany. I build production-ready web applications, dashboards, and internal tools — using Claude and other AI systems as active collaborators throughout the entire build.
+AI-Augmented Full-Stack Developer based in Germany.  
+I build web applications, dashboards, and internal tools — using Claude and other AI systems as active collaborators throughout the entire build.
 
 ---
 
@@ -15,15 +16,15 @@ AI-Augmented Full-Stack Developer based in Germany. I build production-ready web
 
 ## Stack
 
-**Frontend** — HTML, CSS, JavaScript, React  
-**Backend** — Python, Node.js  
-**AI** — Claude API, prompt engineering, AI-augmented development  
-**Tools** — Git, VS Code, Figma
+Frontend — HTML, CSS, JavaScript, React  
+Backend — Python, Node.js  
+AI — Claude API, prompt engineering, AI-augmented development  
+Tools — Git, Antigravity, Figma
 
 ---
 
 ## Work with me
 
-I'm available for freelance projects on Upwork — frontend development, full-stack builds, AI integrations, and internal tools.
+Available for freelance projects on Upwork — frontend development, full-stack builds, AI integrations, and internal tools.
 
 [View my Upwork profile →](https://www.upwork.com/freelancers/~0176f7c51b68d07c0e)
